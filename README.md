@@ -9,7 +9,7 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Java", "Kotlin"],
+    code: ["Javascript", "Typescript", "Java", "Kotlin","PHP"],
     askMeAbout: ["web dev", "app dev"],
     technologies: {
         mobileApp: ["Android App"],

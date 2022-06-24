@@ -22,7 +22,7 @@ const anmol = {
             java: ["spring"],
             php: ["laravel"]
         },
-        databases: ["mongo", "MySql", "SQLServer","oracle"],
+        databases: ["mongoDB", "MySql", "SQLServer","oracle"],
         misc: ["Firebase", "Socket.IO", "selenium"]
     },
 };

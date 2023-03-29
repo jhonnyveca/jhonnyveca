@@ -8,22 +8,20 @@
 
 ```javascript
 const jhonny = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Java", "Kotlin","PHP"],
     askMeAbout: ["web dev", "app dev"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            js: ["React","Angular"],
+            js: ["React","Angular","Vue"],
             css: ["material-ui", "primeFaces", "bootstrap", "tailwindcss"]
         },
         backEnd: {
-            js: ["node", "express"],
-            java: ["spring"],
-            php: ["laravel"]
+            js: ["node", "express", "Nestjs"],
+            java: ["spring"]
         },
-        databases: ["mongoDB", "MySql", "SQLServer","oracle"],
-        misc: ["Firebase", "Socket.IO", "selenium"]
+        databases: ["mongoDB", "MySql", "SQLServer","Oracle"],
+        misc: ["Firebase"]
     },
 };
 ```

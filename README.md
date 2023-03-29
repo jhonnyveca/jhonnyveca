@@ -8,7 +8,7 @@
 
 ```javascript
 const jhonny = {
-    code: ["Javascript", "Typescript", "Java", "Kotlin","PHP"],
+    code: ["Javascript", "Typescript", "Java", "Kotlin"],
     askMeAbout: ["web dev", "app dev"],
     technologies: {
         mobileApp: ["Android App"],

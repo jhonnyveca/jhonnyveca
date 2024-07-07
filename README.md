@@ -8,17 +8,20 @@
 
 ```javascript
 const jhonny = {
-    code: ["Javascript", "Typescript", "Java", "Kotlin"],
+    code: ["Javascript", "Typescript", "Java", "Dart","Python"],
     askMeAbout: ["web dev", "app dev"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: {
+             dark: ["Flutter"]
+        },
         frontEnd: {
             js: ["React","Angular","Vue"],
             css: ["material-ui", "primeFaces", "bootstrap", "tailwindcss"]
         },
         backEnd: {
-            js: ["node", "express", "Nestjs"],
-            java: ["spring"]
+            js: ["express","Nestjs"],
+            java: ["spring"],
+            python: ["Flask"]
         },
         databases: ["mongoDB", "MySql", "SQLServer","Oracle"],
         misc: ["Firebase"]
